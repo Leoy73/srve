@@ -1,6 +1,11 @@
-[2025-05-21T11:20:13,295][W] [TQW/initialLog]: Config in '§r              §5§l(MSX)  §dHosting Gratuito§r
+[2025-05-21T14:31:19,028][W] [TQW/initialLog]: Config in '§r              §5§l(MSX)  §dHosting Gratuito§r
           §f§nhttps://discord.gg/w9xt8ydNZe'
 {
+  "server": {
+    "machineWork": {
+      "unworkableDimensions": []
+    }
+  },
   "common": {
     "enableMap": {
       "mini_quarry": true,
@@ -27,52 +32,6 @@
       "book_mover": true,
       "workbench": true,
       "pump_plus": true
-    },
-    "common": {
-      "reduceMarkerGuideLineIfPlayerIsFar": false,
-      "chunkDestroyerLimit": -1,
-      "debug": false,
-      "removeFrameAfterQuarryIsRemoved": false,
-      "removeCommonMaterialsByCD": false,
-      "flexMarkerMaxDistance": 256,
-      "spawnerBlackList": [
-        "minecraft:ender_dragon",
-        "minecraft:wither",
-        "minecraft:area_effect_cloud",
-        "minecraft:item",
-        "minecraft:player"
-      ],
-      "netherTop": 127,
-      "sfqEnergy": 2.0,
-      "noEnergy": false,
-      "convertDeepslateOres": false,
-      "allowWorkbenchExtraction": false,
-      "allowWorkInClaimedChunkByFBTChunks": false,
-      "enableChunkLoader": true,
-      "logAllQuarryWork": false
-    },
-    "acceptableEnchantmentsMap": {
-      "mini_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking"
-      ],
-      "adv_quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ],
-      "adv_pump": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune"
-      ],
-      "quarry": [
-        "minecraft:efficiency",
-        "minecraft:unbreaking",
-        "minecraft:fortune",
-        "minecraft:silk_touch"
-      ]
     },
     "powerMap": {
       "mini_quarry": {
@@ -125,11 +84,52 @@
         "breakFortuneCoefficient": 1.5874010519681996,
         "breakSilktouchCoefficient": 4.0
       }
-    }
-  },
-  "server": {
-    "machineWork": {
-      "unworkableDimensions": []
+    },
+    "acceptableEnchantmentsMap": {
+      "mini_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking"
+      ],
+      "adv_quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ],
+      "adv_pump": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune"
+      ],
+      "quarry": [
+        "minecraft:efficiency",
+        "minecraft:unbreaking",
+        "minecraft:fortune",
+        "minecraft:silk_touch"
+      ]
+    },
+    "common": {
+      "reduceMarkerGuideLineIfPlayerIsFar": false,
+      "chunkDestroyerLimit": -1,
+      "debug": false,
+      "removeFrameAfterQuarryIsRemoved": false,
+      "removeCommonMaterialsByCD": false,
+      "flexMarkerMaxDistance": 256,
+      "spawnerBlackList": [
+        "minecraft:ender_dragon",
+        "minecraft:wither",
+        "minecraft:area_effect_cloud",
+        "minecraft:item",
+        "minecraft:player"
+      ],
+      "netherTop": 127,
+      "sfqEnergy": 2.0,
+      "noEnergy": false,
+      "convertDeepslateOres": false,
+      "allowWorkbenchExtraction": false,
+      "allowWorkInClaimedChunkByFBTChunks": false,
+      "enableChunkLoader": true,
+      "logAllQuarryWork": false
     }
   }
 }

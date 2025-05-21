@@ -1296,6 +1296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-21 16:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-19 18:39:27 +0000"
@@ -1639,6 +1645,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_black1": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 16:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 22:38:11 +0000"
@@ -1859,6 +1871,12 @@
     "criteria": {
       "recipe_condition1": "2025-05-19 22:54:09 +0000",
       "has_the_recipe": "2025-05-19 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/pylons/expulsion_pylon": {
+    "criteria": {
+      "has_diamond_block": "2025-05-21 16:34:34 +0000"
     },
     "done": true
   },
@@ -3985,6 +4003,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-21 16:08:05 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/netherite_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:14:46 +0000"
@@ -5531,6 +5555,12 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "scrambled_eggs": "2025-05-21 16:09:58 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-05-18 22:07:45 +0000"
@@ -6215,6 +6245,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:10:48 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2025-05-21 16:34:34 +0000"
     },
     "done": true
   },
@@ -10158,6 +10194,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_black1": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 16:20:32 +0000",
+      "recipe_condition": "2025-05-21 16:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_stairs_from_mangrove_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 15:29:09 +0000"
@@ -11372,6 +11415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-21 16:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-05-19 18:46:00 +0000"
@@ -12046,6 +12095,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 16:34:34 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:57 +0000"
@@ -12653,6 +12708,12 @@
   "silentgear:recipes/silentgear/sturdy_repair_kit": {
     "criteria": {
       "has_item": "2025-05-18 22:30:59 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2025-05-21 15:53:25 +0000"
     },
     "done": true
   },
@@ -13302,6 +13363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-21 16:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-19 18:13:39 +0000"
@@ -13475,6 +13542,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-18 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/netherite_scrap": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 16:08:05 +0000"
     },
     "done": true
   },
@@ -17027,6 +17100,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-21 16:08:04 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_elementpipe_and_nugget": {
     "criteria": {
       "has_swift_alloy_nugget": "2025-05-18 22:51:55 +0000"
@@ -17273,6 +17352,12 @@
       "has_planks": "2025-05-20 14:41:33 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-05-21 15:55:37 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_door_from_mahogany_slab_woodcutting": {
     "criteria": {
@@ -17569,6 +17654,12 @@
     },
     "done": true
   },
+  "silentgear:armor": {
+    "criteria": {
+      "chestplate": "2025-05-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/osmium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:12:34 +0000"
@@ -17839,6 +17930,12 @@
   "farmersdelight:main/use_skillet": {
     "criteria": {
       "skillet": "2025-05-21 12:26:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-21 15:55:37 +0000"
     },
     "done": true
   },
@@ -18338,6 +18435,12 @@
     "criteria": {
       "criterion0": "2025-05-20 16:59:08 +0000",
       "criterion1": "2025-05-20 16:59:08 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/powercell_card": {
+    "criteria": {
+      "paper": "2025-05-21 16:26:27 +0000"
     },
     "done": true
   },
@@ -19634,6 +19737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-21 16:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 18:36:37 +0000"
@@ -20210,6 +20319,12 @@
   "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
     "criteria": {
       "has_items": "2025-05-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-21 16:08:04 +0000"
     },
     "done": true
   },
